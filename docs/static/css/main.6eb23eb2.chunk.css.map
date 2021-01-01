@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "webpack://src/index.css"
+  ],
+  "names": [],
+  "mappings": "AACA,EACI,mBACJ,CAEA,KACI,iBAAkB,CAClB,YACJ,CAEA,MACI,aAAoB,CACpB,gBAAiB,CACjB,UACJ,CAEA,MACI,oBAAqB,CACrB,iBAAkB,CAClB,eAAgB,CAChB,kBAAmB,CACnB,iBACJ,CAEA,QACI,WAAY,CACZ,iBACJ,CAEA,UACI,gBACJ,CAEA,WACI,YAAa,CACb,kBAAmB,CACnB,cACJ",
+  "file": "main.6eb23eb2.chunk.css",
+  "sourcesContent": [
+    "\n*{\n    font-family: cursive;\n}\n\nbody{\n    text-align: center;\n    padding: 60px;\n}\n\ninput{\n    color: darkslategrey;\n    font-size: 1.2rem;\n    width: auto;\n}\n\n.card{\n    align-content: center;\n    border-radius: 6px;\n    overflow: hidden;\n    margin-bottom: 10px;\n    margin-right: 10px;\n}\n\n.card p{\n    padding: 5px;\n    text-align: center;\n}\n\n.card img{\n    max-height: 170px;\n}\n\n.card-grid{\n    display: flex;\n    flex-direction: row;\n    flex-wrap: wrap;\n}"
+  ]
+}
